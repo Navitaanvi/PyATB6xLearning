@@ -1,0 +1,1 @@
+print("Navita","Ruchy", 100, True, sep = "@#",end = "&&")
