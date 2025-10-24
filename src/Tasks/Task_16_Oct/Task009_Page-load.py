@@ -8,10 +8,7 @@ load_time = 4.2
 page_load_time = float(input("Enter the page load time: "))
 
 if page_load_time <= 3 :
-    print("Page load time is good")
-
-elif page_load_time == 4.2 :
-    print("Page load too slow")
+    print(f"Page loaded successfully in {page_load_time} seconds")
 
 else:
-    print("Page load time is bad")
+    print(f" ⚠️Page too slow loaded in {page_load_time} seconds")

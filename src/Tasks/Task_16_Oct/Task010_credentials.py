@@ -18,5 +18,3 @@ if username == "admin" and password ==  "1234":
 
 else:
     print("❌ Invalid Credentials")
-
-
