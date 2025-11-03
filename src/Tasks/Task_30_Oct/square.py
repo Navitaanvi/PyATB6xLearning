@@ -14,3 +14,4 @@ def square1(num1):
     print("Square :",num1**2)
 
 square1(int(input("enter a no ")))
+
