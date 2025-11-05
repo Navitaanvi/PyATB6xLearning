@@ -16,15 +16,11 @@ Hint: Use a counter (like wait_time) and break condition.
 
 import time
 import random
-
 wait_time = 0
 page_loaded = False
 
-
 def api_response():
-    return random.choice([False, False, True])
-
-
+    return random.choice([False, False, True]
 while wait_time < 5:
     page_loaded = api_response()
     if page_loaded:
