@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7653be5-2ead-4fd9-8ba2-5da0a0f50ad4" name="Changes" comment="Commit_Nov 1.">
+    <list default="true" id="a7653be5-2ead-4fd9-8ba2-5da0a0f50ad4" name="Changes" comment="Commit_Nov 4.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks/Task_18_Oct/Task013_Page_load_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Task_18_Oct/Task013_Page_load_check.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks/Task_30_Oct/triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Task_30_Oct/triangle_classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Python_Upskill/ex_12_Lamda_Function/Lab094_ODD_even.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Python_Upskill/ex_12_Lamda_Function/Lab094_ODD_even.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,6 +130,13 @@
     "Python.Lab092_Lambda.executor": "Run",
     "Python.Lab094_ODD_even.executor": "Run",
     "Python.Lab095_Lambda.executor": "Run",
+    "Python.Lab096_List.executor": "Run",
+    "Python.Lab097_List.executor": "Run",
+    "Python.Lab098_POP.executor": "Run",
+    "Python.Lab099_Tuple.executor": "Run",
+    "Python.Lab100_Tuple.executor": "Run",
+    "Python.Lab101_Tuple.executor": "Run",
+    "Python.Lab102_SET.executor": "Run",
     "Python.Lab10_maths.executor": "Run",
     "Python.Lab70_Functions_IQ.executor": "Run",
     "Python.Lab71_IQ.executor": "Run",
@@ -203,7 +209,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.Right_Triangle">
-    <configuration name="Lab092_Lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab099_Tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,11 +218,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_12_Lamda_Function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_14_Tuple" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_12_Lamda_Function/Lab092_Lambda.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_14_Tuple/Lab099_Tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,7 +231,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab093" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab100_Tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -234,11 +240,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_12_Lamda_Function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_14_Tuple" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill\ex_12_Lamda_Function\Lab093.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_14_Tuple/Lab100_Tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,7 +253,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab094_ODD_even" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab101_Tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,11 +262,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_12_Lamda_Function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_14_Tuple" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_12_Lamda_Function/Lab094_ODD_even.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_14_Tuple/Lab101_Tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,7 +275,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab095_Lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab102_SET" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -278,11 +284,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_12_Lamda_Function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_15_Set" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_12_Lamda_Function/Lab095_Lambda.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_15_Set/Lab102_SET.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -314,19 +320,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Lab092_Lambda" />
-      <item itemvalue="Python.Lab093" />
-      <item itemvalue="Python.Lab094_ODD_even" />
-      <item itemvalue="Python.Lab095_Lambda" />
+      <item itemvalue="Python.Lab099_Tuple" />
+      <item itemvalue="Python.Lab101_Tuple" />
+      <item itemvalue="Python.Lab102_SET" />
       <item itemvalue="Python.Right_Triangle" />
+      <item itemvalue="Python.Lab100_Tuple" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Right_Triangle" />
-        <item itemvalue="Python.Lab095_Lambda" />
-        <item itemvalue="Python.Lab094_ODD_even" />
-        <item itemvalue="Python.Lab093" />
-        <item itemvalue="Python.Lab092_Lambda" />
+        <item itemvalue="Python.Lab102_SET" />
+        <item itemvalue="Python.Lab101_Tuple" />
+        <item itemvalue="Python.Lab100_Tuple" />
+        <item itemvalue="Python.Lab099_Tuple" />
       </list>
     </recent_temporary>
   </component>
@@ -463,7 +469,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762164441737</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Commit_Nov 4.">
+      <option name="closed" value="true" />
+      <created>1762367205096</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1762367205096</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -481,7 +495,8 @@
     <MESSAGE value="Commit_Oct28" />
     <MESSAGE value="Commit_Oct30" />
     <MESSAGE value="Commit_Nov 1." />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit_Nov 1." />
+    <MESSAGE value="Commit_Nov 4." />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit_Nov 4." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
