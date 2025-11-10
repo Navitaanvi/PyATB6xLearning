@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7653be5-2ead-4fd9-8ba2-5da0a0f50ad4" name="Changes" comment="Commit_Nov 4.">
+    <list default="true" id="a7653be5-2ead-4fd9-8ba2-5da0a0f50ad4" name="Changes" comment="Commit_Nov 6.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Python_Upskill/ex_12_Lamda_Function/Lab094_ODD_even.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Python_Upskill/ex_12_Lamda_Function/Lab094_ODD_even.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,12 +136,25 @@
     "Python.Lab100_Tuple.executor": "Run",
     "Python.Lab101_Tuple.executor": "Run",
     "Python.Lab102_SET.executor": "Run",
+    "Python.Lab103_SET_P2.executor": "Run",
+    "Python.Lab104_SET_P3.executor": "Run",
+    "Python.Lab105_Extra.executor": "Run",
+    "Python.Lab105_IQ.executor": "Run",
+    "Python.Lab106_Dict.executor": "Run",
+    "Python.Lab107_Dict.executor": "Run",
+    "Python.Lab108_Dict.executor": "Run",
     "Python.Lab10_maths.executor": "Run",
+    "Python.Lab110_Dict_concept.executor": "Run",
     "Python.Lab70_Functions_IQ.executor": "Run",
     "Python.Lab71_IQ.executor": "Run",
     "Python.Lab72_Infinite_Args.executor": "Run",
+    "Python.LabFilter01.executor": "Run",
+    "Python.LabFilter03.executor": "Run",
     "Python.LabFor Reverse.executor": "Run",
     "Python.LabForUsedinRealLife.executor": "Run",
+    "Python.LabMap01.executor": "Run",
+    "Python.LabMap02.executor": "Run",
+    "Python.LabMap3.executor": "Run",
     "Python.LabPass_vs_Continue_059.executor": "Run",
     "Python.LabQ02.executor": "Run",
     "Python.LabQ03_REAL_EXAMPLE.executor": "Run",
@@ -173,6 +185,7 @@
     "Python.back_10to1.executor": "Run",
     "Python.even_no_1to20.executor": "Run",
     "Python.lab040_User_Inp_Ternary_ope.executor": "Run",
+    "Python.pattern.executor": "Run",
     "Python.skip_divby3.executor": "Run",
     "Python.square.executor": "Run",
     "Python.status_API.executor": "Run",
@@ -182,7 +195,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/navit/PycharmProjects/PyATB6xLearning/src/Python_Upskill/ex_07_Loops/While",
+    "last_opened_file_path": "C:/Users/navit/PycharmProjects/PyATB6xLearning/src/Python_Upskill/ex_17_Dict",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -194,11 +207,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill\ex_17_Dict" />
+      <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill\ex_16_Map_Filter_List" />
+      <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill\ex_15_Set" />
       <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill\ex_07_Loops\While" />
       <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill\ex_08_Functions" />
-      <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill\ex_07_Loops" />
-      <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill\ex_05_Conditions_Loops" />
-      <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill\ex_04_Operators" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill" />
@@ -208,8 +221,8 @@
       <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Tasks\Task_16_Oct" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Right_Triangle">
-    <configuration name="Lab099_Tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab110_Dict_concept">
+    <configuration name="Lab106_Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,11 +231,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_14_Tuple" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_17_Dict" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_14_Tuple/Lab099_Tuple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_17_Dict/Lab106_Dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,7 +244,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab100_Tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab107_Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,11 +253,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_14_Tuple" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_17_Dict" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_14_Tuple/Lab100_Tuple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_17_Dict/Lab107_Dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,7 +266,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab101_Tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab108_Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,11 +275,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_14_Tuple" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_17_Dict" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_14_Tuple/Lab101_Tuple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_17_Dict/Lab108_Dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,7 +288,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab102_SET" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab110_Dict_concept" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -284,11 +297,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_15_Set" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_17_Dict" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_15_Set/Lab102_SET.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_17_Dict/Lab110_Dict_concept.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,7 +310,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Right_Triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LabFilter03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -306,11 +319,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Tasks/Task_Nov4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_16_Map_Filter_List" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Tasks/Task_Nov4/Right_Triangle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_16_Map_Filter_List/LabFilter03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,19 +333,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Lab099_Tuple" />
-      <item itemvalue="Python.Lab101_Tuple" />
-      <item itemvalue="Python.Lab102_SET" />
-      <item itemvalue="Python.Right_Triangle" />
-      <item itemvalue="Python.Lab100_Tuple" />
+      <item itemvalue="Python.Lab106_Dict" />
+      <item itemvalue="Python.Lab107_Dict" />
+      <item itemvalue="Python.Lab108_Dict" />
+      <item itemvalue="Python.Lab110_Dict_concept" />
+      <item itemvalue="Python.LabFilter03" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Right_Triangle" />
-        <item itemvalue="Python.Lab102_SET" />
-        <item itemvalue="Python.Lab101_Tuple" />
-        <item itemvalue="Python.Lab100_Tuple" />
-        <item itemvalue="Python.Lab099_Tuple" />
+        <item itemvalue="Python.Lab110_Dict_concept" />
+        <item itemvalue="Python.Lab108_Dict" />
+        <item itemvalue="Python.Lab107_Dict" />
+        <item itemvalue="Python.Lab106_Dict" />
+        <item itemvalue="Python.LabFilter03" />
       </list>
     </recent_temporary>
   </component>
@@ -477,7 +490,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762367205096</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Commit_Nov 6.">
+      <option name="closed" value="true" />
+      <created>1762565353225</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1762565353225</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -496,7 +517,8 @@
     <MESSAGE value="Commit_Oct30" />
     <MESSAGE value="Commit_Nov 1." />
     <MESSAGE value="Commit_Nov 4." />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit_Nov 4." />
+    <MESSAGE value="Commit_Nov 6." />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit_Nov 6." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
