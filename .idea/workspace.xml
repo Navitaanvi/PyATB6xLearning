@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7653be5-2ead-4fd9-8ba2-5da0a0f50ad4" name="Changes" comment="Commit_Nov 11.">
+    <list default="true" id="a7653be5-2ead-4fd9-8ba2-5da0a0f50ad4" name="Changes" comment="Commit_Nov 13.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -163,6 +163,13 @@
     "Python.Lab123_Cal_PC.executor": "Run",
     "Python.Lab124_oops.executor": "Run",
     "Python.Lab125_oops.executor": "Run",
+    "Python.Lab127_Encap.executor": "Run",
+    "Python.Lab128_Encap.executor": "Run",
+    "Python.Lab129_Encap_ENV.executor": "Run",
+    "Python.Lab129_Encap_Ft.executor": "Run",
+    "Python.Lab130_Encap_Ex.executor": "Run",
+    "Python.Lab132_Encap_Personal.executor": "Run",
+    "Python.Lab133_Inheritance.executor": "Run",
     "Python.Lab70_Functions_IQ.executor": "Run",
     "Python.Lab71_IQ.executor": "Run",
     "Python.Lab72_Infinite_Args.executor": "Run",
@@ -187,6 +194,7 @@
     "Python.Lab_040_OPerators_DivmodP9.executor": "Run",
     "Python.Lab_093.executor": "Run",
     "Python.Lab_Decor_2.executor": "Run",
+    "Python.Lab_Public_Protected_Private.executor": "Run",
     "Python.Palindrome_string.executor": "Run",
     "Python.Right_Triangle.executor": "Run",
     "Python.Task004_area_triangle.executor": "Run",
@@ -201,10 +209,12 @@
     "Python.Task_001.executor": "Run",
     "Python.Task_002_list_of_all_build_in_functions.executor": "Run",
     "Python.Task_003_Escape_sequence.executor": "Run",
+    "Python.Task_Nov_18_Inheri&Encap.executor": "Run",
     "Python.back_10to1.executor": "Run",
     "Python.calc_oops.executor": "Run",
     "Python.count_vowels_consonants.executor": "Run",
     "Python.even_no_1to20.executor": "Run",
+    "Python.g.executor": "Run",
     "Python.lab040_User_Inp_Ternary_ope.executor": "Run",
     "Python.oops_Person.executor": "Run",
     "Python.pattern.executor": "Run",
@@ -215,6 +225,7 @@
     "Python.task_FizzBuzz.executor": "Run",
     "Python.triangle.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/navit/PycharmProjects/PyATB6xLearning/src/Python_Upskill/ex_18_OOPS_Python/02_Consrtuctor",
@@ -243,8 +254,8 @@
       <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Tasks\Task_11_Oct" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.calc_oops">
-    <configuration name="Lab122_Cal_Non_PC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Task_Nov_18_Inheri&amp;Encap">
+    <configuration name="Lab132_Encap_Personal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -253,11 +264,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/02_Consrtuctor" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/04_Encapsulation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill\ex_18_OOPS_Python\02_Consrtuctor\Lab122_Cal_Non_PC.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/04_Encapsulation/Lab132_Encap_Personal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,7 +277,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab123_Cal_PC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab133_Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -275,11 +286,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/02_Consrtuctor" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/05_Inheritance" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill\ex_18_OOPS_Python\02_Consrtuctor\Lab123_Cal_PC.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/05_Inheritance/Lab133_Inheritance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,7 +299,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab124_oops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab_Public_Protected_Private" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -297,11 +308,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/03_Instance_Variable" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/04_Encapsulation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/03_Instance_Variable/Lab124_oops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/04_Encapsulation/Lab_Public_Protected_Private.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,7 +321,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab125_oops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_Nov_18_Inheri&amp;Encap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -319,11 +330,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/03_Instance_Variable" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Tasks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/03_Instance_Variable/Lab125_oops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Tasks/Task_Nov_18_Inheri&amp;Encap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -332,7 +343,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calc_oops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="g" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -341,33 +352,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Tasks/Task_Nov_13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/05_Inheritance" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Tasks/Task_Nov_13/calc_oops.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="oops_Person" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Tasks/Task_Nov_13" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Tasks/Task_Nov_13/oops_Person.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/05_Inheritance/g.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -377,19 +366,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Lab124_oops" />
-      <item itemvalue="Python.Lab125_oops" />
-      <item itemvalue="Python.calc_oops" />
-      <item itemvalue="Python.oops_Person" />
-      <item itemvalue="Python.Lab123_Cal_PC" />
+      <item itemvalue="Python.Lab132_Encap_Personal" />
+      <item itemvalue="Python.Lab133_Inheritance" />
+      <item itemvalue="Python.Lab_Public_Protected_Private" />
+      <item itemvalue="Python.Task_Nov_18_Inheri&amp;Encap" />
+      <item itemvalue="Python.g" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.calc_oops" />
-        <item itemvalue="Python.oops_Person" />
-        <item itemvalue="Python.Lab125_oops" />
-        <item itemvalue="Python.Lab124_oops" />
-        <item itemvalue="Python.Lab123_Cal_PC" />
+        <item itemvalue="Python.Task_Nov_18_Inheri&amp;Encap" />
+        <item itemvalue="Python.Lab133_Inheritance" />
+        <item itemvalue="Python.g" />
+        <item itemvalue="Python.Lab_Public_Protected_Private" />
+        <item itemvalue="Python.Lab132_Encap_Personal" />
       </list>
     </recent_temporary>
   </component>
@@ -558,7 +547,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762968743094</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Commit_Nov 13.">
+      <option name="closed" value="true" />
+      <created>1763346667802</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1763346667802</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -579,7 +576,8 @@
     <MESSAGE value="Commit_Nov 4." />
     <MESSAGE value="Commit_Nov 6." />
     <MESSAGE value="Commit_Nov 11." />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit_Nov 11." />
+    <MESSAGE value="Commit_Nov 13." />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit_Nov 13." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab001_Python_Hello.coverage" NAME="Lab001_Python_Hello Coverage Results" MODIFIED="1760023504380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_01_Python_Basics" />
