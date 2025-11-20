@@ -5,11 +5,12 @@ class Car:
 
     def nany(self):
         self.__private_baby = "456pass"
+        print(self.__private_baby)
 
 obj_ref = Car()
 print(obj_ref.public_navita)
 print(obj_ref.nany())
-print(obj_ref._Car__private_baby)
+# print(obj_ref._Car__private_baby)
 
 # print(obj_ref.__password_secure)
 

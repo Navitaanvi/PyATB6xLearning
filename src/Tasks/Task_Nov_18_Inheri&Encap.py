@@ -45,6 +45,9 @@ class LoginTest(BaseTest):
 
 obj=LoginTest()
 obj.setup()
+
+
+
 obj.run_test()
 obj.teardown()
 obj.get_user()
