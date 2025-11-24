@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7653be5-2ead-4fd9-8ba2-5da0a0f50ad4" name="Changes" comment="Commit_Nov 18.">
+    <list default="true" id="a7653be5-2ead-4fd9-8ba2-5da0a0f50ad4" name="Changes" comment="Commit_Nov 20.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/04_Encapsulation/Lab128_Encap.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/04_Encapsulation/Lab128_Encap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/04_Encapsulation/Lab129_Encap_Ft.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/04_Encapsulation/Lab129_Encap_Ft.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/05_Inheritance/Lab133_Inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/05_Inheritance/01_Single_Inheritance/Lab133_Single_Inheritance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks/Task_Nov_18_Inheri&amp;Encap.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Task_Nov_18_Inheri&amp;Encap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/06_Polymorphism/Method_Overloading/Lab140_MO.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/06_Polymorphism/a_Method_Overriding/Lab140_Method_overriding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/06_Polymorphism/Method_Overloading/Lab141_MO.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/06_Polymorphism/a_Method_Overriding/Lab141_Method_overriding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/Lab117_OOPs_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/01_Class_Object/Lab117_OOPs_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/Lab118_Class_Dog.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/01_Class_Object/Lab118_Class_Dog.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,7 @@
     "Python.Factorial.executor": "Debug",
     "Python.IQ.executor": "Run",
     "Python.LAb090_Lambda.executor": "Run",
+    "Python.LAb148+Aeal.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab001_Python_Hello.executor": "Run",
     "Python.Lab002_Match.executor": "Run",
@@ -183,6 +184,18 @@
     "Python.Lab139_REAL_AUTOMATION.executor": "Run",
     "Python.Lab140_MO.executor": "Run",
     "Python.Lab141_MO.executor": "Run",
+    "Python.Lab142_Method_Overloading.executor": "Run",
+    "Python.Lab143_Method_Overloading.executor": "Run",
+    "Python.Lab144_Method_Overloading.executor": "Run",
+    "Python.Lab144_Method_overloading_REAL.executor": "Run",
+    "Python.Lab145_Abstraction.executor": "Run",
+    "Python.Lab146_Abstraction.executor": "Run",
+    "Python.Lab147_Real_Automation.executor": "Run",
+    "Python.Lab149_ABC.executor": "Run",
+    "Python.Lab150_Static.executor": "Run",
+    "Python.Lab151_Static_Method.executor": "Run",
+    "Python.Lab153_Static_Nonstatic.executor": "Run",
+    "Python.Lab154_REAL_Example.executor": "Run",
     "Python.Lab70_Functions_IQ.executor": "Run",
     "Python.Lab71_IQ.executor": "Run",
     "Python.Lab72_Infinite_Args.executor": "Run",
@@ -223,6 +236,7 @@
     "Python.Task_002_list_of_all_build_in_functions.executor": "Run",
     "Python.Task_003_Escape_sequence.executor": "Run",
     "Python.Task_Nov_18_Inheri&Encap.executor": "Run",
+    "Python.Task_Nov_22.executor": "Run",
     "Python.back_10to1.executor": "Run",
     "Python.calc_oops.executor": "Run",
     "Python.count_vowels_consonants.executor": "Run",
@@ -241,7 +255,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/navit/PycharmProjects/PyATB6xLearning/src/Python_Upskill/ex_18_OOPS_Python/02_Consrtuctor",
+    "last_opened_file_path": "C:/Users/navit/PycharmProjects/PyATB6xLearning/src/Python_Upskill/ex_18_OOPS_Python/06_Polymorphism/Method_Overriding",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -253,22 +267,22 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill\ex_18_OOPS_Python\06_Polymorphism\Method_Overriding" />
       <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill\ex_18_OOPS_Python\02_Consrtuctor" />
       <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill\ex_17_Dict" />
       <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill\ex_16_Map_Filter_List" />
       <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill\ex_15_Set" />
-      <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill\ex_07_Loops\While" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill\ex_18_OOPS_Python\01_Class_Object" />
+      <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill\ex_18_OOPS_Python\06_Polymorphism\Method_Overriding" />
+      <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill\ex_18_OOPS_Python\06_Polymorphism\Method_Overloading" />
       <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill\ex_18_OOPS_Python\05_Inheritance\05_Hybrid_Inheritance" />
       <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill\ex_18_OOPS_Python\05_Inheritance\01_SI" />
-      <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill\ex_18_OOPS_Python\02_Consrtuctor" />
-      <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill\ex_18_OOPS_Python\01_Class_Object" />
-      <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearning\src\Python_Upskill" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab141_MO">
-    <configuration name="Lab137_Hierarchical_Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Task_Nov_22">
+    <configuration name="Lab150_Static" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -277,11 +291,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/05_Inheritance/04_Hierarichal_Inheritance" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/08_Static" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/05_Inheritance/04_Hierarichal_Inheritance/Lab137_Hierarchical_Inheritance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/08_Static/Lab150_Static.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,7 +304,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab138_Hybrid_Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab151_Static_Method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -299,11 +313,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/05_Inheritance/05_Hybrid_Inheritance" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/08_Static" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/05_Inheritance/05_Hybrid_Inheritance/Lab138_Hybrid_Inheritance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/08_Static/Lab151_Static_Method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,7 +326,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab139_REAL_AUTOMATION" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab153_Static_Nonstatic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -321,11 +335,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/05_Inheritance/05_Hybrid_Inheritance" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/08_Static" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/05_Inheritance/05_Hybrid_Inheritance/Lab139_REAL_AUTOMATION.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/08_Static/Lab153_Static_Nonstatic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -334,7 +348,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab140_MO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab154_REAL_Example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -343,11 +357,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/06_Polymorphism/Method_Overloading" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/08_Static" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/06_Polymorphism/Method_Overloading/Lab140_MO.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/08_Static/Lab154_REAL_Example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -356,7 +370,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab141_MO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_Nov_22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -365,11 +379,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/06_Polymorphism/Method_Overloading" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Tasks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Python_Upskill/ex_18_OOPS_Python/06_Polymorphism/Method_Overloading/Lab141_MO.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Tasks/Task_Nov_22.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -379,19 +393,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Lab137_Hierarchical_Inheritance" />
-      <item itemvalue="Python.Lab138_Hybrid_Inheritance" />
-      <item itemvalue="Python.Lab139_REAL_AUTOMATION" />
-      <item itemvalue="Python.Lab140_MO" />
-      <item itemvalue="Python.Lab141_MO" />
+      <item itemvalue="Python.Lab150_Static" />
+      <item itemvalue="Python.Lab151_Static_Method" />
+      <item itemvalue="Python.Lab153_Static_Nonstatic" />
+      <item itemvalue="Python.Lab154_REAL_Example" />
+      <item itemvalue="Python.Task_Nov_22" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab141_MO" />
-        <item itemvalue="Python.Lab140_MO" />
-        <item itemvalue="Python.Lab139_REAL_AUTOMATION" />
-        <item itemvalue="Python.Lab138_Hybrid_Inheritance" />
-        <item itemvalue="Python.Lab137_Hierarchical_Inheritance" />
+        <item itemvalue="Python.Task_Nov_22" />
+        <item itemvalue="Python.Lab154_REAL_Example" />
+        <item itemvalue="Python.Lab153_Static_Nonstatic" />
+        <item itemvalue="Python.Lab151_Static_Method" />
+        <item itemvalue="Python.Lab150_Static" />
       </list>
     </recent_temporary>
   </component>
@@ -576,7 +590,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763573572229</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Commit_Nov 20.">
+      <option name="closed" value="true" />
+      <created>1763628403229</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1763628403229</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -599,7 +621,8 @@
     <MESSAGE value="Commit_Nov 11." />
     <MESSAGE value="Commit_Nov 13." />
     <MESSAGE value="Commit_Nov 18." />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit_Nov 18." />
+    <MESSAGE value="Commit_Nov 20." />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit_Nov 20." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab001_Python_Hello.coverage" NAME="Lab001_Python_Hello Coverage Results" MODIFIED="1760023504380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_01_Python_Basics" />
